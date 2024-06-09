@@ -1,0 +1,303 @@
+{
+  "schemaVersion": "1.0.0",
+  "pairs": [
+    {
+      "chainId": "ton",
+      "dexId": "dedust",
+      "url": "https://dexscreener.com/ton/eqccpqrypu85l23q9raefzkxn4buefvm9ka2mhpja8mvgcdx",
+      "pairAddress": "EQCCPQrYpU85L23q9RaEfzkXn4buefvm9KA2MhpjA8mVgcDX",
+      "baseToken": {
+        "address": "EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI",
+        "name": "Lavandos",
+        "symbol": "LAVE"
+      },
+      "quoteToken": {
+        "address": "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
+        "name": "Toncoin",
+        "symbol": "TON"
+      },
+      "priceNative": "0.00002194",
+      "priceUsd": "0.0001565",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 1,
+          "sells": 5
+        },
+        "h24": {
+          "buys": 4,
+          "sells": 10
+        }
+      },
+      "volume": {
+        "h24": 7933.19,
+        "h6": 4468.34,
+        "h1": 0,
+        "m5": 0
+      },
+      "priceChange": {
+        "m5": 0,
+        "h1": 0,
+        "h6": 5.4,
+        "h24": 6.34
+      },
+      "liquidity": {
+        "usd": 196276.16,
+        "base": 625340900,
+        "quote": 13792
+      },
+      "fdv": 719993,
+      "pairCreatedAt": 1681926808000
+    },
+    {
+      "chainId": "ton",
+      "dexId": "stonfi",
+      "url": "https://dexscreener.com/ton/eqcrxpgqbsigzc7eulgseql7zvbpcq9ticqb3kpw8hvut_ch",
+      "pairAddress": "EQCrxPGqBsiGzC7EUlGsEQl7zvbpcQ9TicQB3kpw8HVuT_CH",
+      "baseToken": {
+        "address": "EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI",
+        "name": "Lavandos",
+        "symbol": "LAVE"
+      },
+      "quoteToken": {
+        "address": "EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM9c",
+        "name": "TON",
+        "symbol": "TON"
+      },
+      "priceNative": "0.00002154",
+      "priceUsd": "0.0001541",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 1
+        },
+        "h1": {
+          "buys": 2,
+          "sells": 2
+        },
+        "h6": {
+          "buys": 4,
+          "sells": 6
+        },
+        "h24": {
+          "buys": 12,
+          "sells": 27
+        }
+      },
+      "volume": {
+        "h24": 2344.37,
+        "h6": 1014.7,
+        "h1": 358.45,
+        "m5": 334.94
+      },
+      "priceChange": {
+        "m5": -2.88,
+        "h1": -2.76,
+        "h6": 3.74,
+        "h24": 3.51
+      },
+      "liquidity": {
+        "usd": 49195.21,
+        "base": 159583830,
+        "quote": 3438.8515
+      },
+      "fdv": 709011,
+      "pairCreatedAt": 1689268390000
+    },
+    {
+      "chainId": "ton",
+      "dexId": "stonfi",
+      "url": "https://dexscreener.com/ton/eqceyhbsmm_7xpcsguqzd1diredfklb2moovox0jffciue77",
+      "pairAddress": "EQCeYHBsMM_7XpcSgUQZD1dIREDFKlB2MOoVOx0jffcIue77",
+      "baseToken": {
+        "address": "EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI",
+        "name": "Lavandos",
+        "symbol": "LAVE"
+      },
+      "quoteToken": {
+        "address": "EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O",
+        "name": "Gram",
+        "symbol": "GRAM"
+      },
+      "priceNative": "0.01019",
+      "priceUsd": "0.0001440",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24": {
+          "buys": 1,
+          "sells": 0
+        }
+      },
+      "volume": {
+        "h24": 59.42,
+        "h6": 0,
+        "h1": 0,
+        "m5": 0
+      },
+      "priceChange": {
+        "m5": 0,
+        "h1": 0,
+        "h6": 0,
+        "h24": 0
+      },
+      "liquidity": {
+        "usd": 2380.08,
+        "base": 8261769,
+        "quote": 84201
+      },
+      "fdv": 662595,
+      "pairCreatedAt": 1713426572000
+    },
+    {
+      "chainId": "ton",
+      "dexId": "dedust",
+      "url": "https://dexscreener.com/ton/eqavd0lf13yozzslixhxvq6zkjhuf05gvrl3k4juq8bhem6z",
+      "pairAddress": "EQAvd0LF13yOZZslIXHXVQ6zKJHUF05GvRl3K4JUq8bhem6z",
+      "baseToken": {
+        "address": "EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI",
+        "name": "Lavandos",
+        "symbol": "LAVE"
+      },
+      "quoteToken": {
+        "address": "EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_",
+        "name": "Hydra",
+        "symbol": "HYDRA"
+      },
+      "priceNative": "0.00002781",
+      "priceUsd": "0.0001543",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 1,
+          "sells": 0
+        },
+        "h24": {
+          "buys": 1,
+          "sells": 0
+        }
+      },
+      "volume": {
+        "h24": 37.75,
+        "h6": 37.75,
+        "h1": 0,
+        "m5": 0
+      },
+      "priceChange": {
+        "m5": 0,
+        "h1": 0,
+        "h6": 0,
+        "h24": 0
+      },
+      "liquidity": {
+        "usd": 1927.33,
+        "base": 6131975,
+        "quote": 176.6537
+      },
+      "fdv": 710226,
+      "pairCreatedAt": 1711913316000
+    },
+    {
+      "chainId": "ton",
+      "dexId": "dedust",
+      "url": "https://dexscreener.com/ton/eqaot9vqihddsu0cgkniumt9ibvawydsvx41w1moctxstwxl",
+      "pairAddress": "EQAoT9vqiHddSu0cGKniuMt9iBVAWydSvx41w1MOcTXstwXl",
+      "baseToken": {
+        "address": "EQCgW3iMiYqkqBjqYR391w525-3pnFzVstHlbZ4dkulW_oz5",
+        "name": "MiDtoken",
+        "symbol": "MID"
+      },
+      "quoteToken": {
+        "address": "EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI",
+        "name": "Lavandos",
+        "symbol": "LAVE"
+      },
+      "priceNative": "7841.2074",
+      "priceUsd": "1.24",
+      "txns": {
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h6": {
+          "buys": 0,
+          "sells": 1
+        },
+        "h24": {
+          "buys": 0,
+          "sells": 1
+        }
+      },
+      "volume": {
+        "h24": 16.18,
+        "h6": 16.18,
+        "h1": 0,
+        "m5": 0
+      },
+      "priceChange": {
+        "m5": 0,
+        "h1": 0,
+        "h6": 0,
+        "h24": 0
+      },
+      "liquidity": {
+        "usd": 518.75,
+        "base": 213.9736,
+        "quote": 1582798
+      },
+      "fdv": 26197660,
+      "pairCreatedAt": 1708059351000,
+      "info": {
+        "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcgw3imiyqkqbjqyr391w525-3pnfzvsthlbz4dkulw_oz5.png",
+        "websites": [
+          {
+            "label": "Website",
+            "url": "https://midtoken.club"
+          },
+          {
+            "label": "NFT collection",
+            "url": "https://getgems.io/midcollection"
+          }
+        ],
+        "socials": [
+          {
+            "type": "twitter",
+            "url": "https://x.com/MiDtokenClub"
+          },
+          {
+            "type": "telegram",
+            "url": "https://t.me/MiDtoken_channel"
+          }
+        ]
+      }
+    }
+  ]
+}
